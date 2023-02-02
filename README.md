@@ -1,2 +1,2 @@
 # fastapi-notes
-Notes about FAstAPI
+Notes about FastAPI
