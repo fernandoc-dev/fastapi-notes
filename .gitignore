@@ -1,6 +1,6 @@
 # Ignore env
 env
-__pycache__
+# __pycache__
 02 Base Model
 
 # Ignore files
