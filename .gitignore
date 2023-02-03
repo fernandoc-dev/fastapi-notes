@@ -1,2 +1,7 @@
 # Ignore env
 env
+02 Base Model
+# Ignore files
+requirements2.txt
+requirements3.txt
+article.html
