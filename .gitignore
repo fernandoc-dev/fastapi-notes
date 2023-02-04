@@ -1,7 +1,6 @@
-# Ignore env
+# Ignore folders
 env
-# __pycache__
-02 Base Model
+__pycache__
 
 # Ignore files
 requirements2.txt
